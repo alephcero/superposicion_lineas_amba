@@ -1,0 +1,8 @@
+jupyter
+rtree
+geopandas
+pyyaml
+matplotlib
+seaborn
+mapclassify
+folium
